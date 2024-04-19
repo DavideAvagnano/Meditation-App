@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "text": "Since I started using this app, my daily routine has seen a remarkable transformation. Its calming guided meditations and user-friendly interface have become indispensable to me. I highly recommend it to anyone seeking inner peace.",
+    "rating": 4,
+    "date": "2024-04-15T08:00:00Z",
+    "image": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "text": "This app has been a revelation in my journey to reduce stress and anxiety. With its diverse range of meditation sessions catering to various needs, I find myself more grounded and focused throughout the day. It's truly a lifesaver!",
+    "rating": 4.5,
+    "date": "2024-04-15T08:00:00Z",
+    "image": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 3,
+    "name": "Michael Williams",
+    "text": "As a beginner in meditation, I was pleasantly surprised by how this app eased me into the practice. The clarity of instructions coupled with the soothing background music creates an immersive experience. I'm already reaping the benefits after just a few sessions!",
+    "rating": 5,
+    "date": "2024-04-15T08:00:00Z",
+    "image": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Brown",
+    "text": "Among the multitude of meditation apps out there, this one's simplicity and effectiveness truly stand out. The mindfulness exercises have instilled a sense of presence and awareness in my daily life that I've been yearning for. It's definitely a game-changer!",
+    "rating": 3.5,
+    "date": "2024-04-15T08:00:00Z",
+    "image": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 5,
+    "name": "David Miller",
+    "text": "I can't stress enough how much this app has transformed my well-being. Its concise meditation sessions seamlessly fit into my busy schedule, yet the impact they've had is profound. I highly recommend it to anyone looking to prioritize their mental health.",
+    "rating": 5,
+    "date": "2024-04-15T08:00:00Z",
+    "image": "https://github.com/shadcn.png"
+  }
+]
