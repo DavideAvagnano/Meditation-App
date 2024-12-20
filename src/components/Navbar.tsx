@@ -44,7 +44,7 @@ const Navbar = () => {
       }
       ${showNavbar ? "" : "-translate-y-full"}`}
     >
-      <nav className="max-w-screen-xl mx-auto px-4 md:px-10 py-6 flex items-center justify-between relative">
+      <nav className="relative max-w-screen-xl mx-auto px-4 md:px-10 py-6 flex items-center justify-between">
         <Link to={"/"} className="text-xl font-bold">
           LOGO
         </Link>
