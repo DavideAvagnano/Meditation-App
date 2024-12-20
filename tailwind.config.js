@@ -1,4 +1,4 @@
-const { transform } = require("typescript");
+import { transform } from "typescript";
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
