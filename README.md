@@ -19,7 +19,7 @@ This app is a practical example of how to leverage React's Context API for state
 
 ## Live Demo
 
-Check out the deployed application: [Meditation App on Vercel](https://meditation-app-ashy.vercel.app/)
+Check out the deployed application: [Meditation App on Vercel](https://meditation-app-puce.vercel.app/)
 
 ---
 
